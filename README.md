@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🎓 Estudiante de Ingeniería de Software en la UTP<br>- 💼 Full Stack Developer con enfoque en Frontend<br>- ⚛️ Apasionado por React, JavaScript y el ecosistema web moderno<br>- 🎨 Interesado en UI/UX y diseño de interfaces<br>- 📚 Aprendiendo constantemente nuevas tecnologías y buenas prácticas<br>- 🚀 Construyendo proyectos para mejorar mis habilidades y aportar valor</p>
+<p align="left">- 🎓 Estudiante de Ingeniería de Sistemas en la UTP<br>- 💼 Full Stack Developer con enfoque en Frontend<br>- ⚛️ Apasionado por React, JavaScript y el ecosistema web moderno<br>- 🎨 Interesado en UI/UX y diseño de interfaces<br>- 📚 Aprendiendo constantemente nuevas tecnologías y buenas prácticas<br>- 🚀 Construyendo proyectos para mejorar mis habilidades y aportar valor</p>
 
 ###
 
